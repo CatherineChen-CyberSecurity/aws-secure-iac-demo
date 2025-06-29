@@ -1,9 +1,9 @@
 # aws-secure-iac-demo
----
+
 Purpose: Demonstrate a security-focused implementation of AWS Infrastructure as Code (IaC)
 
 ## Project Contents
----
+
 Use Terraform (with Terragrunt) to provision AWS resources with a security-first approach.
 
 
@@ -21,7 +21,7 @@ Include security-related AWS services, such as:
 Tech Stack: Terraform, Terragrunt, AWS IAM / S3 / WAF
 
 ## Setup & Deployment
----
+
 ## Install Terraform and Terragrunt
 
 ### 1. Install Terraform
