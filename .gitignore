@@ -1,0 +1,16 @@
+# Terraform state
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Terraform plan output
+*.tfplan
+
+# Terraform variables
+*.tfvars
+
+# Sensitive files
+.terraform/
+.terraform.lock.hcl
+.terragrunt-cache/
+bootstrap/.terraform.lock.hcl
